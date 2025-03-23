@@ -1,0 +1,66 @@
+{
+    "languages": [
+        {
+            "name": "简体中文",
+            "code": "zh-CN",
+            "font": "NotoSansSC-Regular.ttf",
+            "description": "支持中文字符"
+        },
+        {
+            "name": "繁体中文",
+            "code": "zh-TW",
+            "font": "NotoSansTC-Regular.ttf",
+            "description": "支持繁体中文字符"
+        },
+        {
+            "name": "日文",
+            "code": "ja",
+            "font": "HinaMincho-Regular.ttf",
+            "description": "支持日文字符"
+        },
+        {
+            "name": "韩文",
+            "code": "ko",
+            "font": "NotoSansKR-Regular.ttf",
+            "description": "支持韩文字符"
+        },
+        {
+            "name": "英文",
+            "code": "en",
+            "font": "NotoSans-Regular.ttf",
+            "description": "支持英文和西欧语言"
+        },
+        {
+            "name": "西班牙语",
+            "code": "es",
+            "font": "NotoSans-Regular.ttf",
+            "description": "支持西班牙语字符"
+        },
+        {
+            "name": "俄文",
+            "code": "ru",
+            "font": "NotoSansCyrillic-Regular.ttf",
+            "description": "支持俄文字符"
+        },
+        {
+            "name": "阿拉伯文",
+            "code": "ar",
+            "font": "NotoSansArabic-Regular.ttf",
+            "description": "支持阿拉伯文字符（从右到左）"
+        },
+        {
+            "name": "印地文",
+            "code": "hi",
+            "font": "NotoSansDevanagari-Regular.ttf",
+            "description": "支持印地文字符"
+        },
+        {
+            "name": "泰文",
+            "code": "th",
+            "font": "NotoSansThai-Regular.ttf",
+            "description": "支持泰文字符"
+        }
+    ],
+    "fallback_font": "NotoSans-Regular.ttf",
+    "default_language": "zh-CN"
+}
